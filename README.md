@@ -16,4 +16,7 @@ This follows the same process as the California filter, only that we add another
 
 The following image is what will be displayed:
 ![image](https://github.com/nypasha1928/UFOs/blob/main/static/images/UFO%20%20City%20Results%20img.png)
+### Summary
+Overall the process of the webpage is easy to follow and intuitive. But a certain drawback with this webpage is that it is case sensitive in that if we type "el cajo" instead of "El Cajo" we will not get any results.
 
+In further development of this webpage, I would reccomend this correct this case sensitive issue as well as include more data into the webpage with UFO sightings!
