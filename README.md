@@ -15,4 +15,7 @@ Now, Lets go a step further and looking into a certain city within California. F
 This follows the same process as the California filter, only that we add another layer to our filter which is adding a city! In the "Enter a City" filter we will enter "el cajo" as well as in the state filter add california just as we have done before.
 
 The following image is what will be displayed:
-![image]()
+![image](https://github.com/nypasha1928/UFOs/blob/main/static/images/UFO%20%20City%20Results%20img.png)
+### Final Product
+
+See the deployed website here : file:///C:/Users/Amr/Analysis%20Projects/UFOs/index.html
