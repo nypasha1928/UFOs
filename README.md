@@ -19,4 +19,4 @@ The following image is what will be displayed:
 ### Summary
 Overall the process of the webpage is easy to follow and intuitive. But a certain drawback with this webpage is that it is case sensitive in that if we type "el cajo" instead of "El Cajo" we will not get any results.
 
-In further development of this webpage, I would recomend to correct this case sensitive issue as well as include more data into the webpage with UFO sightings!
+In further development of this webpage, I would recommend to correct this case sensitive issue as well as include more data into the webpage with UFO sightings!
