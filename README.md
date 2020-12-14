@@ -16,6 +16,4 @@ This follows the same process as the California filter, only that we add another
 
 The following image is what will be displayed:
 ![image](https://github.com/nypasha1928/UFOs/blob/main/static/images/UFO%20%20City%20Results%20img.png)
-### Final Product
 
-See the deployed website here : file:///C:/Users/Amr/Analysis%20Projects/UFOs/index.html
